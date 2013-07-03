@@ -19,7 +19,7 @@ package com.google.devrel.samples.ttt.spi;
  * Contains the client IDs for allowed clients consuming the tictactoe API.
  */
 public class Ids {
-  public static final String WEB_CLIENT_ID = "replace this with your web client application ID";
+  public static final String WEB_CLIENT_ID = "1092945706565-jt1b2md2fr9ilefgkrnknuvp6uef5gjj.apps.googleusercontent.com";
   public static final String ANDROID_CLIENT_ID = "replace this with your Android client ID";
   public static final String IOS_CLIENT_ID = "replace this with your iOS client ID";
   public static final String ANDROID_AUDIENCE = WEB_CLIENT_ID;
