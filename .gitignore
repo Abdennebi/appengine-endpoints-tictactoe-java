@@ -1,9 +1,23 @@
-.idea
-.DS_Store
+#Eclipse
+target/*
 .settings
-*.jar
+.classpath
+.project
+.springBeans
+
+/target
+
+#Idea
+.iml
+.idea
+
+# IntelliJ
+.idea
 *.iml
-*~
-target/
-classes/
-appengine-generated/
+
+# Maven release plugin
+*.releaseBackup
+release.properties
+
+# AppEngine Local Datastore
+local_db.bin
